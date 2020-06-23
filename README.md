@@ -247,3 +247,4 @@ Instagram: <https://www.instagram.com/CreativeTimOfficial>
 
 [version-badge]: https://img.shields.io/badge/version-2.4.0-blue.svg
 "# gatepass-templated-angular" 
+"# gatepass-templated-angular" 
